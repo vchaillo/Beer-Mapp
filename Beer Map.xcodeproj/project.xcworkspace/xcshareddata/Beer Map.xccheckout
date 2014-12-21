@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9747CB88-A6B0-4584-8541-D3F4F7799CB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Beer Map</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05C1867D0748C83C0292B0A4A39BBBE8DB7F2891</key>
+		<string>vogsphere.42.fr:intra/2014/activities/rush_introduction_to_ios/vchaillo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Beer Map/Beer Map.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05C1867D0748C83C0292B0A4A39BBBE8DB7F2891</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>vogsphere.42.fr:intra/2014/activities/rush_introduction_to_ios/vchaillo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05C1867D0748C83C0292B0A4A39BBBE8DB7F2891</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05C1867D0748C83C0292B0A4A39BBBE8DB7F2891</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vchaillo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
