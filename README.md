@@ -9,4 +9,4 @@ First Iphone app with swift & xCode
 (rush iOs)
 
 =============
-Projet de l'ecole 42
+Project of 42
